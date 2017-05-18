@@ -23,7 +23,7 @@ int main()
 			<<tunnel.dataFile(index).getThing(1)<<" "
 			<<tunnel.dataFile(index).getThing(2)<<" "
 			<<tunnel.dataFile(index).getThing(3)<<" "<<endl;
-	}
+	}//new thing
 	system("pause");
     return 100;
 }
